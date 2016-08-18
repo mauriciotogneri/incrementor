@@ -7,14 +7,14 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.mauriciotogneri</groupId>
     <artifactId>incrementor-maven-plugin</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>maven-plugin</packaging>
     <name>incrementor-maven-plugin</name>
-    <url>https://github.com/mauriciotogneri/incrementor</url>
+    <url>https://github.com/mauriciotogneri/incrementor-maven-plugin</url>
     <licenses>
         <license>
             <name>MIT</name>
-            <url>https://github.com/mauriciotogneri/incrementor/blob/master/LICENSE.txt</url>
+            <url>https://github.com/mauriciotogneri/incrementor-maven-plugin/blob/master/LICENSE.txt</url>
             <distribution>site</distribution>
         </license>
     </licenses>
