@@ -7,7 +7,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.mauriciotogneri</groupId>
     <artifactId>incrementor-maven-plugin</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.0</version>
     <packaging>maven-plugin</packaging>
     <name>incrementor-maven-plugin</name>
     <url>https://github.com/mauriciotogneri/incrementor-maven-plugin</url>
